@@ -2,4 +2,4 @@
  
  Todos meus projetos de treino
 
- <a href="">  </a>
+ <a href="https://bizuti.github.io/exercicios/ex010/">  </a>
